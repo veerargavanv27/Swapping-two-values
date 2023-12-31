@@ -18,12 +18,10 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
-
 ```
 #Program to swap two values.
 #Developed by:veeraragavan v
 #RegisterNumber:23004739
-
 n=input()
 y=input()
 a=n
@@ -32,11 +30,6 @@ y=a
 print("Swapped values are: {} {}".format(n,y))
 ```
 ## OUTPUT:
-
 ![output](<ex 01.jpg>)
-
 ## RESULT:
 Thus the swapping of two values are successfully executed
-
-
-
